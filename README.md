@@ -19,7 +19,7 @@ Term: Fall 2021
 Yue Li: the main contributor for the data preprocessing, data cleaning, training LFR, debugging and modifying LM and LPS.
 Qian Zhang: the main contributor for implementing the algorithms described in the Learning fair representations (LFR).
 Zhuohan Zhang: the main contributor for implementing the algorithms described in the Handling Conditional Discrimination (LM and LPS).
-Dipesh Patel: minor contributor in implementing LPS algorithm; performed code review.
+Dipesh Patel: minor contributor in implementing LPS algorithm; performed code review. Orianne Luo: contributed to the LPS algorithm; wrote the helper algorithms. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
