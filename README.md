@@ -4,17 +4,21 @@
 
 Term: Fall 2021
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team #3
++ Projec title: Learning fair representations (LFR) and Handling Conditional Discrimination (LM and LPS)
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ Li, Yue yl4552@columbia.edu
+	+ Luo, Orianne ol2216@columbia.edu
+	+ Patel, Dipesh dp3095@columbia.edu
+	+ Wang, Yalin yw3727@columbia.edu
+	+ Zhang, Qian qz2416@columbia.edu
+	+ Zhang, Zhuohan zz2751@columbia.edu
++ Project summary: Our project implements the algorithms describled in the given paper Learning fair representations (LFR) and Handling Conditional Discrimination (LM and LPS). These models are trained and tested on the COMPASS dataset.
 	
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: [default] 
+Qian Zhang: the main contributor for implementing the algorithms described in the Learning fair representations (LFR).
+Yue Li: the main contributor for the data preprocessing, training LFR and debugging.
+Zhuohan Zhang: the main contributor for implementing the algorithms described in the Handling Conditional Discrimination (LM and LPS).
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
