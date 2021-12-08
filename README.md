@@ -16,8 +16,8 @@ Term: Fall 2021
 + Project summary: Our project implements the algorithms describled in the given paper Learning fair representations (LFR) and Handling Conditional Discrimination (LM and LPS). These models are trained and tested on the COMPASS dataset.
 	
 **Contribution statement**: [default] 
+Yue Li: the main contributor for the data preprocessing, data cleaning, training LFR, debugging and modifying LM and LPS.
 Qian Zhang: the main contributor for implementing the algorithms described in the Learning fair representations (LFR).
-Yue Li: the main contributor for the data preprocessing, training LFR and debugging.
 Zhuohan Zhang: the main contributor for implementing the algorithms described in the Handling Conditional Discrimination (LM and LPS).
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
